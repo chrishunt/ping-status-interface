@@ -6,4 +6,5 @@ Usage:
 
     PingStatusInterface psi = new PingStatusInterface("host");
 
-    psi.getStatus();  // return Status
+    psi.refreshStatus();  // ping host, refresh status
+    psi.getStatus();      // return Status
