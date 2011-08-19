@@ -1,8 +1,8 @@
-Ping Status Agent
--------------------
+Ping Status Interface
+---------------------
 Usage:
 
-    import net.progeny.uswdss.rm.status.PingStatusAgent;
+    import net.progeny.uswdss.rm.status.PingStatusInterface;
 
     PingStatusInterface psi = new PingStatusInterface("host");
 
