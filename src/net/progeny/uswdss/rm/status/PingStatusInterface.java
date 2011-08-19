@@ -1,8 +1,6 @@
 package net.progeny.uswdss.rm.status;
 
-import java.io.IOException;
 import java.net.InetAddress;
-import java.net.UnknownHostException;
 
 import net.progeny.uswdss.rm.status.Status;
 
