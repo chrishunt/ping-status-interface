@@ -1,5 +1,7 @@
 Ping Status Interface
 ---------------------
+Use this interface to get the ping status of any host.
+
 Usage:
 
     import net.progeny.uswdss.rm.status.PingStatusInterface;
